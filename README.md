@@ -1,4 +1,4 @@
-# <Flight Price Tracker>
+# Flight Deal Tracker
 
 ## Description
 
